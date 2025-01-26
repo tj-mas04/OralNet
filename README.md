@@ -80,4 +80,3 @@ Below is the confusion matrix for the model's performance:
 
 ---
 
-DenseNet-121's ability to balance accuracy, speed, and generalization makes it an ideal choice for automating oral disease detection, potentially revolutionizing diagnostic workflows.
