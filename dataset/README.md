@@ -32,3 +32,5 @@ The dataset comprises thousands of high-quality, annotated dental images meticul
 
 ---
 
+You can access the dataset used for this project on Kaggle: [Oral Diseases Dataset](https://www.kaggle.com/datasets/salmansajid05/oral-diseases).
+
