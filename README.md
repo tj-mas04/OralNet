@@ -5,7 +5,7 @@ This project focuses on developing a machine learning model to predict oral dise
 
 ---
 
-## 📌 Project Overview  
+## 📌 Project Overview 
 Oral health plays a critical role in overall well-being. Early detection of oral diseases such as dental caries, gingivitis, and oral cancer is essential for effective treatment. This system automates the diagnostic process, leveraging deep learning for accurate and efficient predictions.  
 
 ---
